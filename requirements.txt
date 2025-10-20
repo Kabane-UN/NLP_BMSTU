@@ -1,10 +1,8 @@
+matplotlib
+scikit-learn
+pandas
+notebook
+kagglehub
 pdfplumber
 pymorphy3
-pymorphy3-dicts-ru
-matplotlib
-wordcloud
-scikit-learn
-sentence-transformers
-notebook
-natasha
-pandas
+PyMuPDF
