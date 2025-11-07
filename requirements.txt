@@ -3,6 +3,6 @@ scikit-learn
 pandas
 notebook
 kagglehub
-pdfplumber
+# pdfplumber
 pymorphy3
 PyMuPDF
